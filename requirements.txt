@@ -1,2 +1,4 @@
 pyspark
 pyspark[sql]
+faker
+ruff
